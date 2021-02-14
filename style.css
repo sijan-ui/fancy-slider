@@ -5,6 +5,10 @@
   margin: 0 auto;
   position: relative;
 }
+.nav-bar {
+  margin: 0px 50px;
+  padding: 0px 50px;
+}
 
 .gallery-header {
   display: none;
